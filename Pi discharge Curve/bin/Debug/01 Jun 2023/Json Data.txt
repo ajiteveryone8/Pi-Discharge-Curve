@@ -1,0 +1,82 @@
+06/01/2023 10:09:19 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4123.55","bt_lvl":"12.99","bt_trig":"false","temperature":33.1,"tilt":1}
+
+06/01/2023 10:09:20 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4136.95","bt_lvl":"12.99","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:21 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4153.35","bt_lvl":"12.99","bt_trig":"false","temperature":33.1,"tilt":1}
+
+06/01/2023 10:09:22 AM	{"Total_inactivity_sec":"-0.02","bt_cur":"4231.87","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:23 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4241.85","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:24 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4177.50","bt_lvl":"12.98","bt_trig":"false","temperature":33.6,"tilt":1}
+
+06/01/2023 10:09:25 AM	{"Total_inactivity_sec":"-0.04","bt_cur":"4133.08","bt_lvl":"12.99","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:26 AM	{"Total_inactivity_sec":"-0.05","bt_cur":"4148.28","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:27 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4145.23","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:28 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4136.43","bt_lvl":"12.98","bt_trig":"false","temperature":33.6,"tilt":1}
+
+06/01/2023 10:09:29 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4235.67","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:30 AM	{"Total_inactivity_sec":"-0.04","bt_cur":"4229.39","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:31 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4177.96","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:32 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4153.41","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:33 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4151.70","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:34 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4214.67","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:35 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4211.40","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:36 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4173.03","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:37 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4235.16","bt_lvl":"12.98","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:38 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4236.05","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:39 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4265.23","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:40 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4223.83","bt_lvl":"12.98","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:41 AM	{"Total_inactivity_sec":"-0.05","bt_cur":"4176.80","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:42 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4138.40","bt_lvl":"12.98","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:43 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4163.22","bt_lvl":"12.98","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:44 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4160.59","bt_lvl":"12.98","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:45 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4155.44","bt_lvl":"12.98","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:46 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4173.95","bt_lvl":"12.98","bt_trig":"false","temperature":35.5,"tilt":1}
+
+06/01/2023 10:09:47 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4227.55","bt_lvl":"12.97","bt_trig":"false","temperature":34.0,"tilt":1}
+
+06/01/2023 10:09:48 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4212.32","bt_lvl":"12.97","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:49 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4142.41","bt_lvl":"12.97","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:50 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4151.02","bt_lvl":"12.97","bt_trig":"false","temperature":36.0,"tilt":1}
+
+06/01/2023 10:09:51 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4154.68","bt_lvl":"12.97","bt_trig":"false","temperature":36.0,"tilt":1}
+
+06/01/2023 10:09:52 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4224.87","bt_lvl":"12.97","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:53 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4295.18","bt_lvl":"12.97","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:54 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4234.08","bt_lvl":"12.97","bt_trig":"false","temperature":35.5,"tilt":1}
+
+06/01/2023 10:09:55 AM	{"Total_inactivity_sec":"-0.06","bt_cur":"4158.04","bt_lvl":"12.97","bt_trig":"false","temperature":35.0,"tilt":1}
+
+06/01/2023 10:09:56 AM	{"Total_inactivity_sec":"-0.00","bt_cur":"4250.59","bt_lvl":"12.97","bt_trig":"false","temperature":36.0,"tilt":1}
+
+06/01/2023 10:09:57 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4309.89","bt_lvl":"12.97","bt_trig":"false","temperature":34.5,"tilt":1}
+
+06/01/2023 10:09:58 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4323.51","bt_lvl":"12.97","bt_trig":"false","temperature":36.0,"tilt":1}
+
+06/01/2023 10:09:59 AM	{"Total_inactivity_sec":"-0.03","bt_cur":"4220.43","bt_lvl":"12.97","bt_trig":"false","temperature":35.5,"tilt":1}
+

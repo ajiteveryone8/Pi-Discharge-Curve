@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pi discharge Curve", "Pi discharge Curve\Pi discharge Curve.csproj", "{CC00E0C5-8925-4F15-817A-5723F9A8AD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC00E0C5-8925-4F15-817A-5723F9A8AD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC00E0C5-8925-4F15-817A-5723F9A8AD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC00E0C5-8925-4F15-817A-5723F9A8AD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC00E0C5-8925-4F15-817A-5723F9A8AD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E06855C-A1E8-480F-8B77-31415134597E}
+	EndGlobalSection
+EndGlobal

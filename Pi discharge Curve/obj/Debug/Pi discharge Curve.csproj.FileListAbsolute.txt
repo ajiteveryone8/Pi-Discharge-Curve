@@ -1,0 +1,52 @@
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\Pi discharge Curve.exe.config
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\Pi discharge Curve.exe
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\Pi discharge Curve.pdb
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ZedGraph.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ZedGraph.xml
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csprojAssemblyReference.cache
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi_discharge_Curve.Form1.resources
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi_discharge_Curve.Properties.Resources.resources
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.GenerateResource.cache
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.CoreCompileInputs.cache
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.CopyComplete
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.exe
+C:\Users\AJIT CHOUDHARY\source\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.pdb
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\Pi discharge Curve.exe.config
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\Pi discharge Curve.exe
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\Pi discharge Curve.pdb
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ZedGraph.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ZedGraph.xml
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\de\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\es\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\fr\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\hu\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\it\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ja\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\pt\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\ru\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\sk\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\sv\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\tr\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.AssemblyReference.cache
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi_discharge_Curve.Form1.resources
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi_discharge_Curve.Properties.Resources.resources
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.GenerateResource.cache
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.CoreCompileInputs.cache
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.csproj.CopyComplete
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.exe
+F:\C# Project\repos\Pi discharge Curve\Pi discharge Curve\obj\Debug\Pi discharge Curve.pdb

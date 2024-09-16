@@ -1,0 +1,2518 @@
+08-28-2021 02:24:10 PM	{"bt_cur":"-3512.68","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:10 PM	{"bt_cur":"-4406.59","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:24:12 PM	{"bt_cur":"-3496.59","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:24:12 PM	{"bt_cur":"-3269.76","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:13 PM	{"bt_cur":"-4224.63","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:24:14 PM	{"bt_cur":"-3588.54","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:15 PM	{"bt_cur":"-3450.73","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:16 PM	{"bt_cur":"-3398.78","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:17 PM	{"bt_cur":"-4179.51","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:24:18 PM	{"bt_cur":"-3454.63","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:19 PM	{"bt_cur":"-3729.76","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:20 PM	{"bt_cur":"-3940.73","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:21 PM	{"bt_cur":"-3463.66","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:23 PM	{"bt_cur":"-3461.71","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:23 PM	{"bt_cur":"-3537.56","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:24 PM	{"bt_cur":"-3435.61","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:25 PM	{"bt_cur":"-3985.61","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:26 PM	{"bt_cur":"-3439.76","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:27 PM	{"bt_cur":"-4324.63","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:28 PM	{"bt_cur":"-3410.73","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:24:30 PM	{"bt_cur":"-3363.66","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:30 PM	{"bt_cur":"-3422.68","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:31 PM	{"bt_cur":"-3417.56","bt_lvl":"3.76","temperature":35.0,"tilt":1}
+
+08-28-2021 02:24:33 PM	{"bt_cur":"-3393.66","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:33 PM	{"bt_cur":"-3474.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:34 PM	{"bt_cur":"-3363.66","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:35 PM	{"bt_cur":"-3452.68","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:24:36 PM	{"bt_cur":"-3458.78","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:37 PM	{"bt_cur":"-3449.76","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:38 PM	{"bt_cur":"-3461.71","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:39 PM	{"bt_cur":"-3642.68","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:40 PM	{"bt_cur":"-3350.73","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:41 PM	{"bt_cur":"-3423.66","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:43 PM	{"bt_cur":"-3481.71","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:43 PM	{"bt_cur":"-3409.76","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:44 PM	{"bt_cur":"-3647.56","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:45 PM	{"bt_cur":"-3455.61","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:24:46 PM	{"bt_cur":"-3553.66","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:24:47 PM	{"bt_cur":"-3465.61","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:48 PM	{"bt_cur":"-3414.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:49 PM	{"bt_cur":"-3398.78","bt_lvl":"3.75","temperature":35.0,"tilt":1}
+
+08-28-2021 02:24:50 PM	{"bt_cur":"-3517.56","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:51 PM	{"bt_cur":"-3515.61","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:52 PM	{"bt_cur":"-3552.68","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:53 PM	{"bt_cur":"-3484.63","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:54 PM	{"bt_cur":"-3544.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:55 PM	{"bt_cur":"-3489.76","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:24:56 PM	{"bt_cur":"-3486.59","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:57 PM	{"bt_cur":"-3482.68","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:24:58 PM	{"bt_cur":"-3302.68","bt_lvl":"3.76","temperature":35.5,"tilt":1}
+
+08-28-2021 02:24:59 PM	{"bt_cur":"-3549.76","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:25:00 PM	{"bt_cur":"-3321.71","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:01 PM	{"bt_cur":"-3354.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:02 PM	{"bt_cur":"-3324.63","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:03 PM	{"bt_cur":"-3434.63","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:04 PM	{"bt_cur":"-3550.73","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:05 PM	{"bt_cur":"-3748.54","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:06 PM	{"bt_cur":"-3493.66","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:07 PM	{"bt_cur":"-3360.73","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:08 PM	{"bt_cur":"-3478.78","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:25:09 PM	{"bt_cur":"-3391.71","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:10 PM	{"bt_cur":"-3450.73","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:11 PM	{"bt_cur":"-3480.73","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:12 PM	{"bt_cur":"-3580.73","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:13 PM	{"bt_cur":"-3483.66","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:15 PM	{"bt_cur":"-3565.61","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:15 PM	{"bt_cur":"-3607.56","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:16 PM	{"bt_cur":"-3268.78","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:17 PM	{"bt_cur":"-3469.76","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:18 PM	{"bt_cur":"-3409.76","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:19 PM	{"bt_cur":"-3550.73","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:25:20 PM	{"bt_cur":"-3583.66","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:21 PM	{"bt_cur":"-3447.56","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:22 PM	{"bt_cur":"-3444.63","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:23 PM	{"bt_cur":"-3445.61","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:24 PM	{"bt_cur":"-3615.61","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:25 PM	{"bt_cur":"-3855.61","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:26 PM	{"bt_cur":"-3375.61","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:27 PM	{"bt_cur":"-3457.56","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:29 PM	{"bt_cur":"-3543.66","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:29 PM	{"bt_cur":"-3463.66","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:30 PM	{"bt_cur":"-3556.59","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:31 PM	{"bt_cur":"-3464.63","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:25:32 PM	{"bt_cur":"-3479.76","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:33 PM	{"bt_cur":"-3393.66","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:34 PM	{"bt_cur":"-3424.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:35 PM	{"bt_cur":"-3549.76","bt_lvl":"3.74","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:36 PM	{"bt_cur":"-3499.76","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:37 PM	{"bt_cur":"-3542.68","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:38 PM	{"bt_cur":"-3344.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:39 PM	{"bt_cur":"-3464.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:40 PM	{"bt_cur":"-3542.68","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:25:41 PM	{"bt_cur":"-3391.71","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:42 PM	{"bt_cur":"-3324.63","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:43 PM	{"bt_cur":"-3520.73","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:25:44 PM	{"bt_cur":"-3509.76","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:45 PM	{"bt_cur":"-3343.66","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:46 PM	{"bt_cur":"-3471.71","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:47 PM	{"bt_cur":"-3448.78","bt_lvl":"3.74","temperature":35.5,"tilt":1}
+
+08-28-2021 02:25:48 PM	{"bt_cur":"-3454.63","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:49 PM	{"bt_cur":"-3527.56","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:50 PM	{"bt_cur":"-3546.59","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:51 PM	{"bt_cur":"-3304.63","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:25:52 PM	{"bt_cur":"-3384.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:53 PM	{"bt_cur":"-3482.68","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:54 PM	{"bt_cur":"-3303.66","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:25:55 PM	{"bt_cur":"-3590.73","bt_lvl":"3.74","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:56 PM	{"bt_cur":"-3665.61","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:25:57 PM	{"bt_cur":"-3481.71","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:25:59 PM	{"bt_cur":"-3442.68","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:25:59 PM	{"bt_cur":"-3547.56","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:00 PM	{"bt_cur":"-3471.71","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:26:01 PM	{"bt_cur":"-3594.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:02 PM	{"bt_cur":"-3283.66","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:26:03 PM	{"bt_cur":"-3437.56","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:04 PM	{"bt_cur":"-3466.59","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:26:05 PM	{"bt_cur":"-3362.68","bt_lvl":"3.74","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:06 PM	{"bt_cur":"-3506.59","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:26:07 PM	{"bt_cur":"-3601.71","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:26:11 PM	{"bt_cur":"-2976.83","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:26:11 PM	{"bt_cur":"-3045.61","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:26:13 PM	{"bt_cur":"-3527.56","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:26:13 PM	{"bt_cur":"-3557.56","bt_lvl":"3.74","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:13 PM	{"bt_cur":"-3542.68","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:14 PM	{"bt_cur":"-3467.56","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:15 PM	{"bt_cur":"-3427.56","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:26:16 PM	{"bt_cur":"-3572.68","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:26:17 PM	{"bt_cur":"-3543.66","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:26:18 PM	{"bt_cur":"-3574.63","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:26:19 PM	{"bt_cur":"-3513.66","bt_lvl":"3.75","temperature":35.5,"tilt":1}
+
+08-28-2021 02:26:21 PM	{"bt_cur":"-3508.78","bt_lvl":"3.75","temperature":36.0,"tilt":1}
+
+08-28-2021 02:29:16 PM	{"bt_cur":"-3439.76","bt_lvl":"3.74","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:17 PM	{"bt_cur":"-3464.63","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:29:18 PM	{"bt_cur":"-3506.59","bt_lvl":"3.74","temperature":36.0,"tilt":1}
+
+08-28-2021 02:29:19 PM	{"bt_cur":"-3553.66","bt_lvl":"3.74","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:20 PM	{"bt_cur":"-3566.59","bt_lvl":"3.74","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:21 PM	{"bt_cur":"-3525.61","bt_lvl":"3.74","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:22 PM	{"bt_cur":"-3568.78","bt_lvl":"3.74","temperature":36.0,"tilt":1}
+
+08-28-2021 02:29:23 PM	{"bt_cur":"-3455.61","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:29:24 PM	{"bt_cur":"-3553.66","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:25 PM	{"bt_cur":"-3399.76","bt_lvl":"3.74","temperature":36.0,"tilt":1}
+
+08-28-2021 02:29:26 PM	{"bt_cur":"-3548.78","bt_lvl":"3.74","temperature":37.0,"tilt":1}
+
+08-28-2021 02:29:27 PM	{"bt_cur":"-3583.66","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:29:28 PM	{"bt_cur":"-3444.63","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:29 PM	{"bt_cur":"-3530.73","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:29:30 PM	{"bt_cur":"-3567.56","bt_lvl":"3.74","temperature":37.0,"tilt":1}
+
+08-28-2021 02:29:33 PM	{"bt_cur":"-2023.99","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:29:33 PM	{"bt_cur":"-2378.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:29:33 PM	{"bt_cur":"-2427.99","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:34 PM	{"bt_cur":"-2316.95","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:35 PM	{"bt_cur":"-2763.93","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:36 PM	{"bt_cur":"-2614.94","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:29:37 PM	{"bt_cur":"-2658.93","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:38 PM	{"bt_cur":"-2534.91","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:39 PM	{"bt_cur":"-2527.96","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:40 PM	{"bt_cur":"-2369.91","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:29:41 PM	{"bt_cur":"-2597.93","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:29:42 PM	{"bt_cur":"-2588.96","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:44 PM	{"bt_cur":"-2731.92","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:44 PM	{"bt_cur":"-2389.94","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:45 PM	{"bt_cur":"-2386.92","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:46 PM	{"bt_cur":"-2565.91","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:47 PM	{"bt_cur":"-2516.98","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:29:48 PM	{"bt_cur":"-2564.91","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:49 PM	{"bt_cur":"-2627.93","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:50 PM	{"bt_cur":"-2912.93","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:29:51 PM	{"bt_cur":"-2542.96","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:29:52 PM	{"bt_cur":"-2573.96","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:53 PM	{"bt_cur":"-2547.99","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:29:54 PM	{"bt_cur":"-2639.91","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:29:55 PM	{"bt_cur":"-2664.97","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:29:56 PM	{"bt_cur":"-2412.99","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:29:57 PM	{"bt_cur":"-2574.97","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:29:58 PM	{"bt_cur":"-2644.94","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:29:59 PM	{"bt_cur":"-2842.96","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:00 PM	{"bt_cur":"-2383.99","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:01 PM	{"bt_cur":"-2469.97","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:02 PM	{"bt_cur":"-2589.97","bt_lvl":"3.75","temperature":40.4,"tilt":1}
+
+08-28-2021 02:30:03 PM	{"bt_cur":"-2821.92","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:04 PM	{"bt_cur":"-2426.98","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:05 PM	{"bt_cur":"-2363.96","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:06 PM	{"bt_cur":"-2481.95","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:07 PM	{"bt_cur":"-2639.91","bt_lvl":"3.74","temperature":40.4,"tilt":1}
+
+08-28-2021 02:30:08 PM	{"bt_cur":"-2388.93","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:09 PM	{"bt_cur":"-2649.97","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:10 PM	{"bt_cur":"-2554.94","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:11 PM	{"bt_cur":"-2529.97","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:12 PM	{"bt_cur":"-2522.93","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:14 PM	{"bt_cur":"-2524.94","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:14 PM	{"bt_cur":"-2606.98","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:15 PM	{"bt_cur":"-2644.94","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:16 PM	{"bt_cur":"-2554.94","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:17 PM	{"bt_cur":"-2694.97","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:18 PM	{"bt_cur":"-2359.94","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:19 PM	{"bt_cur":"-2706.95","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:20 PM	{"bt_cur":"-2615.95","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:21 PM	{"bt_cur":"-2676.95","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:22 PM	{"bt_cur":"-2507.93","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:23 PM	{"bt_cur":"-2423.96","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:25 PM	{"bt_cur":"-2426.98","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:25 PM	{"bt_cur":"-2696.98","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:26 PM	{"bt_cur":"-2605.98","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:27 PM	{"bt_cur":"-2567.93","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:28 PM	{"bt_cur":"-2756.98","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:29 PM	{"bt_cur":"-2335.98","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:30 PM	{"bt_cur":"-2602.96","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:31 PM	{"bt_cur":"-2638.90","bt_lvl":"3.74","temperature":40.4,"tilt":1}
+
+08-28-2021 02:30:32 PM	{"bt_cur":"-2677.96","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:33 PM	{"bt_cur":"-3059.76","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:34 PM	{"bt_cur":"-2385.91","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:35 PM	{"bt_cur":"-2542.96","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:36 PM	{"bt_cur":"-2554.94","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:37 PM	{"bt_cur":"-2690.95","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:40 PM	{"bt_cur":"-2106.95","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:40 PM	{"bt_cur":"-2376.95","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:40 PM	{"bt_cur":"-2323.99","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:41 PM	{"bt_cur":"-2642.93","bt_lvl":"3.73","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:42 PM	{"bt_cur":"-2579.91","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:44 PM	{"bt_cur":"-2068.99","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:30:44 PM	{"bt_cur":"-2378.96","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:30:45 PM	{"bt_cur":"-2429.91","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:30:46 PM	{"bt_cur":"-2564.91","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:30:47 PM	{"bt_cur":"-2711.98","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:30:48 PM	{"bt_cur":"-2155.98","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:14 PM	{"bt_cur":"-1885.98","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:16 PM	{"bt_cur":"-1699.94","bt_lvl":"3.77","temperature":36.5,"tilt":1}
+
+08-28-2021 02:33:16 PM	{"bt_cur":"-1770.00","bt_lvl":"3.76","temperature":35.0,"tilt":1}
+
+08-28-2021 02:33:17 PM	{"bt_cur":"-2135.95","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:18 PM	{"bt_cur":"-1881.95","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:33:19 PM	{"bt_cur":"-2155.98","bt_lvl":"3.76","temperature":39.4,"tilt":1}
+
+08-28-2021 02:33:20 PM	{"bt_cur":"-1708.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:21 PM	{"bt_cur":"-2126.98","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:23 PM	{"bt_cur":"-1805.95","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:33:23 PM	{"bt_cur":"-2383.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:25 PM	{"bt_cur":"-1684.94","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:25 PM	{"bt_cur":"-2173.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:27 PM	{"bt_cur":"-1689.97","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:27 PM	{"bt_cur":"-2124.97","bt_lvl":"3.76","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:29 PM	{"bt_cur":"-1588.99","bt_lvl":"3.76","temperature":36.0,"tilt":1}
+
+08-28-2021 02:33:29 PM	{"bt_cur":"-2025.91","bt_lvl":"3.76","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:31 PM	{"bt_cur":"-2078.96","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:33:31 PM	{"bt_cur":"-2224.94","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:33 PM	{"bt_cur":"-1667.93","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:33 PM	{"bt_cur":"-2053.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:34 PM	{"bt_cur":"-2103.93","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:35 PM	{"bt_cur":"-1762.96","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:37 PM	{"bt_cur":"-2420.95","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:37 PM	{"bt_cur":"-2166.95","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:38 PM	{"bt_cur":"-2192.93","bt_lvl":"3.76","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:40 PM	{"bt_cur":"-1700.95","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:40 PM	{"bt_cur":"-2448.93","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:42 PM	{"bt_cur":"-1695.00","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:42 PM	{"bt_cur":"-2288.96","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:33:44 PM	{"bt_cur":"-1705.98","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:44 PM	{"bt_cur":"-2179.94","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:46 PM	{"bt_cur":"-1765.98","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:46 PM	{"bt_cur":"-2126.98","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:48 PM	{"bt_cur":"-1692.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:33:48 PM	{"bt_cur":"-2118.93","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:50 PM	{"bt_cur":"-2101.92","bt_lvl":"3.76","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:50 PM	{"bt_cur":"-2455.98","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:33:51 PM	{"bt_cur":"-2157.99","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:33:52 PM	{"bt_cur":"-1753.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:53 PM	{"bt_cur":"-2371.92","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:33:55 PM	{"bt_cur":"-1708.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:33:55 PM	{"bt_cur":"-2331.95","bt_lvl":"3.76","temperature":39.4,"tilt":1}
+
+08-28-2021 02:33:57 PM	{"bt_cur":"-1729.94","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:33:57 PM	{"bt_cur":"-2164.94","bt_lvl":"3.76","temperature":39.4,"tilt":1}
+
+08-28-2021 02:33:59 PM	{"bt_cur":"-1730.95","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:33:59 PM	{"bt_cur":"-2154.97","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:01 PM	{"bt_cur":"-1730.95","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:34:01 PM	{"bt_cur":"-2134.94","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:03 PM	{"bt_cur":"-1936.92","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:03 PM	{"bt_cur":"-2127.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:05 PM	{"bt_cur":"-1701.95","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:05 PM	{"bt_cur":"-2148.93","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:07 PM	{"bt_cur":"-1693.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:34:07 PM	{"bt_cur":"-2183.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:08 PM	{"bt_cur":"-2465.95","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:09 PM	{"bt_cur":"-1941.95","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:10 PM	{"bt_cur":"-2348.96","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:34:12 PM	{"bt_cur":"-1737.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:12 PM	{"bt_cur":"-2414.91","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:14 PM	{"bt_cur":"-2397.99","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:14 PM	{"bt_cur":"-2425.98","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:34:16 PM	{"bt_cur":"-1714.94","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:34:16 PM	{"bt_cur":"-2169.97","bt_lvl":"3.76","temperature":39.9,"tilt":1}
+
+08-28-2021 02:34:18 PM	{"bt_cur":"-1756.92","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:18 PM	{"bt_cur":"-2131.92","bt_lvl":"3.76","temperature":39.4,"tilt":1}
+
+08-28-2021 02:34:20 PM	{"bt_cur":"-1719.97","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:20 PM	{"bt_cur":"-2181.95","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:34:22 PM	{"bt_cur":"-1705.98","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:22 PM	{"bt_cur":"-1868.96","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:24 PM	{"bt_cur":"-2051.98","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:24 PM	{"bt_cur":"-2208.93","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:25 PM	{"bt_cur":"-2538.93","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:34:26 PM	{"bt_cur":"-1915.98","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:34:27 PM	{"bt_cur":"-2602.96","bt_lvl":"3.75","temperature":40.4,"tilt":1}
+
+08-28-2021 02:34:29 PM	{"bt_cur":"-2313.93","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:34:29 PM	{"bt_cur":"-2439.97","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:31 PM	{"bt_cur":"-1897.96","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:31 PM	{"bt_cur":"-2403.93","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:34:33 PM	{"bt_cur":"-1995.91","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:33 PM	{"bt_cur":"-2378.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:35 PM	{"bt_cur":"-1897.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:35 PM	{"bt_cur":"-2306.98","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:37 PM	{"bt_cur":"-1996.92","bt_lvl":"3.76","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:37 PM	{"bt_cur":"-2369.91","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:39 PM	{"bt_cur":"-2033.96","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:39 PM	{"bt_cur":"-2444.91","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:40 PM	{"bt_cur":"-2588.96","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:34:41 PM	{"bt_cur":"-2221.92","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:42 PM	{"bt_cur":"-2403.93","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:34:44 PM	{"bt_cur":"-1995.00","bt_lvl":"3.76","temperature":38.4,"tilt":1}
+
+08-28-2021 02:34:44 PM	{"bt_cur":"-2814.97","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:34:46 PM	{"bt_cur":"-1942.96","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:46 PM	{"bt_cur":"-2770.98","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:48 PM	{"bt_cur":"-1931.98","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:34:48 PM	{"bt_cur":"-2452.96","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:50 PM	{"bt_cur":"-1995.00","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:34:51 PM	{"bt_cur":"-2893.90","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:52 PM	{"bt_cur":"-2225.95","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:52 PM	{"bt_cur":"-2502.99","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:54 PM	{"bt_cur":"-1974.97","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:54 PM	{"bt_cur":"-2423.96","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:34:55 PM	{"bt_cur":"-2627.93","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:56 PM	{"bt_cur":"-1999.94","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:34:57 PM	{"bt_cur":"-2554.94","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:34:59 PM	{"bt_cur":"-1940.95","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:35:01 PM	{"bt_cur":"-2330.95","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:01 PM	{"bt_cur":"-2455.98","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:35:01 PM	{"bt_cur":"-2431.92","bt_lvl":"3.75","temperature":39.4,"tilt":1}
+
+08-28-2021 02:35:03 PM	{"bt_cur":"-1922.93","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:35:03 PM	{"bt_cur":"-2323.99","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:35:05 PM	{"bt_cur":"-2018.96","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:35:05 PM	{"bt_cur":"-2594.91","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:35:07 PM	{"bt_cur":"-1943.96","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:35:07 PM	{"bt_cur":"-2385.91","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:35:09 PM	{"bt_cur":"-1911.95","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:09 PM	{"bt_cur":"-2348.96","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:11 PM	{"bt_cur":"-2599.94","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:11 PM	{"bt_cur":"-2576.98","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:35:12 PM	{"bt_cur":"-2035.98","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:35:44 PM	{"bt_cur":"-1826.98","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:35:45 PM	{"bt_cur":"-1498.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:35:46 PM	{"bt_cur":"-1483.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:47 PM	{"bt_cur":"-1483.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:35:48 PM	{"bt_cur":"-1440.00","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:35:49 PM	{"bt_cur":"-1457.93","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:35:50 PM	{"bt_cur":"-1572.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:51 PM	{"bt_cur":"-1497.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:35:52 PM	{"bt_cur":"-1442.01","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:53 PM	{"bt_cur":"-1505.95","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:35:54 PM	{"bt_cur":"-1601.98","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:35:55 PM	{"bt_cur":"-1611.95","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:35:56 PM	{"bt_cur":"-1503.93","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:57 PM	{"bt_cur":"-1479.97","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:35:58 PM	{"bt_cur":"-1482.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:35:59 PM	{"bt_cur":"-1475.95","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:00 PM	{"bt_cur":"-1528.99","bt_lvl":"3.75","temperature":36.5,"tilt":1}
+
+08-28-2021 02:36:01 PM	{"bt_cur":"-1450.98","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:02 PM	{"bt_cur":"-1443.93","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:03 PM	{"bt_cur":"-1472.93","bt_lvl":"3.75","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:04 PM	{"bt_cur":"-1500.00","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:05 PM	{"bt_cur":"-1467.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:06 PM	{"bt_cur":"-1438.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:07 PM	{"bt_cur":"-1511.98","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:08 PM	{"bt_cur":"-1485.00","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:09 PM	{"bt_cur":"-1436.98","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:10 PM	{"bt_cur":"-1487.01","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:11 PM	{"bt_cur":"-1451.98","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:12 PM	{"bt_cur":"-1478.96","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:13 PM	{"bt_cur":"-1468.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:14 PM	{"bt_cur":"-1527.99","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:36:15 PM	{"bt_cur":"-1438.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:16 PM	{"bt_cur":"-1681.92","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:17 PM	{"bt_cur":"-1471.01","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:18 PM	{"bt_cur":"-1450.98","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:19 PM	{"bt_cur":"-1465.98","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:20 PM	{"bt_cur":"-1440.00","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:21 PM	{"bt_cur":"-1561.01","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:36:22 PM	{"bt_cur":"-1491.95","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:23 PM	{"bt_cur":"-1458.93","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:24 PM	{"bt_cur":"-1435.98","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:25 PM	{"bt_cur":"-1615.98","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:36:26 PM	{"bt_cur":"-1576.01","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:27 PM	{"bt_cur":"-1487.01","bt_lvl":"3.76","temperature":38.9,"tilt":1}
+
+08-28-2021 02:36:28 PM	{"bt_cur":"-1436.98","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:29 PM	{"bt_cur":"-1434.97","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:30 PM	{"bt_cur":"-1660.98","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:31 PM	{"bt_cur":"-1588.99","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:32 PM	{"bt_cur":"-1817.93","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:33 PM	{"bt_cur":"-1453.99","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:34 PM	{"bt_cur":"-1481.98","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:35 PM	{"bt_cur":"-1498.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:36 PM	{"bt_cur":"-1793.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:37 PM	{"bt_cur":"-1506.95","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:38 PM	{"bt_cur":"-1441.01","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:39 PM	{"bt_cur":"-1436.98","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:40 PM	{"bt_cur":"-1478.96","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:41 PM	{"bt_cur":"-1502.93","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:42 PM	{"bt_cur":"-1498.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:43 PM	{"bt_cur":"-1502.93","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:44 PM	{"bt_cur":"-1494.97","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:45 PM	{"bt_cur":"-1483.99","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:46 PM	{"bt_cur":"-1620.00","bt_lvl":"3.76","temperature":37.0,"tilt":1}
+
+08-28-2021 02:36:47 PM	{"bt_cur":"-1575.00","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:48 PM	{"bt_cur":"-1509.97","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:49 PM	{"bt_cur":"-1505.95","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:50 PM	{"bt_cur":"-1453.99","bt_lvl":"3.76","temperature":36.5,"tilt":1}
+
+08-28-2021 02:36:51 PM	{"bt_cur":"-1493.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:52 PM	{"bt_cur":"-1553.96","bt_lvl":"3.76","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:53 PM	{"bt_cur":"-1443.93","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:55 PM	{"bt_cur":"-1688.96","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:36:55 PM	{"bt_cur":"-2097.99","bt_lvl":"3.75","temperature":39.9,"tilt":1}
+
+08-28-2021 02:36:57 PM	{"bt_cur":"-1863.93","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:57 PM	{"bt_cur":"-2205.91","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:36:59 PM	{"bt_cur":"-1651.01","bt_lvl":"3.76","temperature":37.9,"tilt":1}
+
+08-28-2021 02:36:59 PM	{"bt_cur":"-2026.92","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:01 PM	{"bt_cur":"-2269.94","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:01 PM	{"bt_cur":"-2405.95","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:04 PM	{"bt_cur":"-2000.95","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:04 PM	{"bt_cur":"-2376.95","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:06 PM	{"bt_cur":"-1976.98","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:06 PM	{"bt_cur":"-2412.99","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:08 PM	{"bt_cur":"-2813.96","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:08 PM	{"bt_cur":"-2373.93","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:09 PM	{"bt_cur":"-2587.96","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:11 PM	{"bt_cur":"-2033.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:11 PM	{"bt_cur":"-2599.94","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:13 PM	{"bt_cur":"-2116.92","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:13 PM	{"bt_cur":"-2403.93","bt_lvl":"3.75","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:15 PM	{"bt_cur":"-2184.97","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:15 PM	{"bt_cur":"-2395.98","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:37:17 PM	{"bt_cur":"-2002.96","bt_lvl":"3.75","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:17 PM	{"bt_cur":"-2665.98","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:19 PM	{"bt_cur":"-2055.00","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:19 PM	{"bt_cur":"-2447.93","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:21 PM	{"bt_cur":"-2404.94","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:21 PM	{"bt_cur":"-2243.96","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:23 PM	{"bt_cur":"-1920.91","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:23 PM	{"bt_cur":"-2061.95","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:24 PM	{"bt_cur":"-2636.98","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:25 PM	{"bt_cur":"-2038.99","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:26 PM	{"bt_cur":"-2542.96","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:28 PM	{"bt_cur":"-1993.99","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:28 PM	{"bt_cur":"-2083.99","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:37:30 PM	{"bt_cur":"-1957.96","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:30 PM	{"bt_cur":"-2210.95","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:32 PM	{"bt_cur":"-1960.98","bt_lvl":"3.75","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:32 PM	{"bt_cur":"-2412.99","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:34 PM	{"bt_cur":"-1943.96","bt_lvl":"3.74","temperature":37.0,"tilt":1}
+
+08-28-2021 02:37:34 PM	{"bt_cur":"-2483.96","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:36 PM	{"bt_cur":"-1948.99","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:36 PM	{"bt_cur":"-2296.92","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:38 PM	{"bt_cur":"-1938.93","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:38 PM	{"bt_cur":"-2040.00","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:40 PM	{"bt_cur":"-2409.97","bt_lvl":"3.74","temperature":37.0,"tilt":1}
+
+08-28-2021 02:37:40 PM	{"bt_cur":"-2601.95","bt_lvl":"3.74","temperature":39.4,"tilt":1}
+
+08-28-2021 02:37:41 PM	{"bt_cur":"-2332.96","bt_lvl":"3.74","temperature":39.9,"tilt":1}
+
+08-28-2021 02:37:43 PM	{"bt_cur":"-1873.99","bt_lvl":"3.75","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:43 PM	{"bt_cur":"-2680.98","bt_lvl":"3.74","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:45 PM	{"bt_cur":"-1960.98","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:45 PM	{"bt_cur":"-3109.76","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:47 PM	{"bt_cur":"-2554.94","bt_lvl":"3.74","temperature":37.0,"tilt":1}
+
+08-28-2021 02:37:47 PM	{"bt_cur":"-3064.63","bt_lvl":"3.74","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:49 PM	{"bt_cur":"-2577.99","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:49 PM	{"bt_cur":"-3079.76","bt_lvl":"3.73","temperature":38.9,"tilt":1}
+
+08-28-2021 02:37:51 PM	{"bt_cur":"-2568.93","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:51 PM	{"bt_cur":"-3062.68","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:53 PM	{"bt_cur":"-2773.90","bt_lvl":"3.74","temperature":37.0,"tilt":1}
+
+08-28-2021 02:37:53 PM	{"bt_cur":"-3571.71","bt_lvl":"3.73","temperature":38.4,"tilt":1}
+
+08-28-2021 02:37:55 PM	{"bt_cur":"-2620.98","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:37:55 PM	{"bt_cur":"-2674.94","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:37:56 PM	{"bt_cur":"-3393.66","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:58 PM	{"bt_cur":"-2602.96","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:37:58 PM	{"bt_cur":"-3234.63","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:00 PM	{"bt_cur":"-2486.98","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:00 PM	{"bt_cur":"-2997.07","bt_lvl":"3.73","temperature":39.4,"tilt":1}
+
+08-28-2021 02:38:02 PM	{"bt_cur":"-2635.98","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:02 PM	{"bt_cur":"-3040.73","bt_lvl":"3.73","temperature":38.4,"tilt":1}
+
+08-28-2021 02:38:04 PM	{"bt_cur":"-2996.83","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:04 PM	{"bt_cur":"-3327.56","bt_lvl":"3.72","temperature":38.9,"tilt":1}
+
+08-28-2021 02:38:06 PM	{"bt_cur":"-2589.97","bt_lvl":"3.74","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:06 PM	{"bt_cur":"-2974.94","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:08 PM	{"bt_cur":"-2526.95","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:08 PM	{"bt_cur":"-3131.71","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:38:10 PM	{"bt_cur":"-2566.92","bt_lvl":"3.74","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:10 PM	{"bt_cur":"-3083.66","bt_lvl":"3.73","temperature":38.4,"tilt":1}
+
+08-28-2021 02:38:11 PM	{"bt_cur":"-3181.71","bt_lvl":"3.72","temperature":38.9,"tilt":1}
+
+08-28-2021 02:38:13 PM	{"bt_cur":"-2639.91","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:15 PM	{"bt_cur":"-3605.61","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:15 PM	{"bt_cur":"-2653.90","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:15 PM	{"bt_cur":"-2609.76","bt_lvl":"3.72","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:17 PM	{"bt_cur":"-2646.95","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:17 PM	{"bt_cur":"-3096.59","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:19 PM	{"bt_cur":"-2964.97","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:19 PM	{"bt_cur":"-3133.66","bt_lvl":"3.72","temperature":38.9,"tilt":1}
+
+08-28-2021 02:38:21 PM	{"bt_cur":"-2543.96","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:21 PM	{"bt_cur":"-3089.76","bt_lvl":"3.72","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:23 PM	{"bt_cur":"-2614.94","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:38:23 PM	{"bt_cur":"-2749.94","bt_lvl":"3.73","temperature":38.9,"tilt":1}
+
+08-28-2021 02:38:25 PM	{"bt_cur":"-2713.90","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:25 PM	{"bt_cur":"-2618.96","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:38:26 PM	{"bt_cur":"-3630.73","bt_lvl":"3.72","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:28 PM	{"bt_cur":"-2695.98","bt_lvl":"3.73","temperature":36.5,"tilt":1}
+
+08-28-2021 02:38:28 PM	{"bt_cur":"-3355.61","bt_lvl":"3.72","temperature":38.9,"tilt":1}
+
+08-28-2021 02:38:30 PM	{"bt_cur":"-2490.91","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:30 PM	{"bt_cur":"-3262.68","bt_lvl":"3.72","temperature":38.9,"tilt":1}
+
+08-28-2021 02:38:32 PM	{"bt_cur":"-2607.99","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:32 PM	{"bt_cur":"-3115.61","bt_lvl":"3.72","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:34 PM	{"bt_cur":"-2586.95","bt_lvl":"3.73","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:34 PM	{"bt_cur":"-3152.68","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:36 PM	{"bt_cur":"-2632.96","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:36 PM	{"bt_cur":"-3134.63","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:38 PM	{"bt_cur":"-2563.90","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:38 PM	{"bt_cur":"-3112.68","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:40 PM	{"bt_cur":"-2761.92","bt_lvl":"3.73","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:40 PM	{"bt_cur":"-3140.73","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:41 PM	{"bt_cur":"-3327.56","bt_lvl":"3.72","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:43 PM	{"bt_cur":"-2612.93","bt_lvl":"3.73","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:43 PM	{"bt_cur":"-2987.93","bt_lvl":"3.72","temperature":38.4,"tilt":1}
+
+08-28-2021 02:38:45 PM	{"bt_cur":"-2821.92","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:45 PM	{"bt_cur":"-3095.61","bt_lvl":"3.72","temperature":38.4,"tilt":1}
+
+08-28-2021 02:38:47 PM	{"bt_cur":"-3179.76","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:47 PM	{"bt_cur":"-3721.71","bt_lvl":"3.72","temperature":37.9,"tilt":1}
+
+08-28-2021 02:38:49 PM	{"bt_cur":"-3544.63","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:49 PM	{"bt_cur":"-4133.66","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:50 PM	{"bt_cur":"-3596.59","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:51 PM	{"bt_cur":"-3514.63","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:52 PM	{"bt_cur":"-3578.78","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:53 PM	{"bt_cur":"-3994.63","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:54 PM	{"bt_cur":"-3767.56","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:55 PM	{"bt_cur":"-4172.68","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:56 PM	{"bt_cur":"-3516.59","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:57 PM	{"bt_cur":"-3627.56","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:38:58 PM	{"bt_cur":"-3711.71","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:38:59 PM	{"bt_cur":"-3588.54","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:00 PM	{"bt_cur":"-3520.73","bt_lvl":"3.72","temperature":37.4,"tilt":1}
+
+08-28-2021 02:39:01 PM	{"bt_cur":"-3452.68","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:39:02 PM	{"bt_cur":"-3746.59","bt_lvl":"3.72","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:03 PM	{"bt_cur":"-3580.73","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:04 PM	{"bt_cur":"-4052.68","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:05 PM	{"bt_cur":"-3600.73","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:06 PM	{"bt_cur":"-3543.66","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:07 PM	{"bt_cur":"-4401.46","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:08 PM	{"bt_cur":"-3494.63","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:09 PM	{"bt_cur":"-3430.73","bt_lvl":"3.72","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:10 PM	{"bt_cur":"-3573.66","bt_lvl":"3.72","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:11 PM	{"bt_cur":"-3574.63","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:12 PM	{"bt_cur":"-3570.73","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:13 PM	{"bt_cur":"-4388.54","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:14 PM	{"bt_cur":"-3572.68","bt_lvl":"3.72","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:15 PM	{"bt_cur":"-3551.71","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:16 PM	{"bt_cur":"-3561.71","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:17 PM	{"bt_cur":"-3489.76","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:39:18 PM	{"bt_cur":"-3643.66","bt_lvl":"3.72","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:19 PM	{"bt_cur":"-3614.63","bt_lvl":"3.71","temperature":37.9,"tilt":1}
+
+08-28-2021 02:39:20 PM	{"bt_cur":"-3634.63","bt_lvl":"3.72","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:21 PM	{"bt_cur":"-3674.63","bt_lvl":"3.72","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:22 PM	{"bt_cur":"-3697.56","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:23 PM	{"bt_cur":"-3535.61","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:24 PM	{"bt_cur":"-3482.68","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:25 PM	{"bt_cur":"-3565.61","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:26 PM	{"bt_cur":"-3635.61","bt_lvl":"3.71","temperature":35.0,"tilt":1}
+
+08-28-2021 02:39:27 PM	{"bt_cur":"-3595.61","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:28 PM	{"bt_cur":"-3634.63","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:29 PM	{"bt_cur":"-3647.56","bt_lvl":"3.72","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:30 PM	{"bt_cur":"-3895.61","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:31 PM	{"bt_cur":"-3484.63","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:39:32 PM	{"bt_cur":"-3978.54","bt_lvl":"3.71","temperature":37.9,"tilt":1}
+
+08-28-2021 02:39:33 PM	{"bt_cur":"-3504.63","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:34 PM	{"bt_cur":"-3639.76","bt_lvl":"3.71","temperature":35.5,"tilt":1}
+
+08-28-2021 02:39:35 PM	{"bt_cur":"-3703.66","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:39:36 PM	{"bt_cur":"-3557.56","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:37 PM	{"bt_cur":"-3640.73","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:38 PM	{"bt_cur":"-3502.68","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:39 PM	{"bt_cur":"-3616.59","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:40 PM	{"bt_cur":"-3554.63","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:41 PM	{"bt_cur":"-3537.56","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:42 PM	{"bt_cur":"-3639.76","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:43 PM	{"bt_cur":"-3780.73","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:44 PM	{"bt_cur":"-3585.61","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:45 PM	{"bt_cur":"-3709.76","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:46 PM	{"bt_cur":"-3586.59","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:39:47 PM	{"bt_cur":"-3585.61","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:48 PM	{"bt_cur":"-3498.78","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:49 PM	{"bt_cur":"-3390.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:50 PM	{"bt_cur":"-3579.76","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:51 PM	{"bt_cur":"-3521.71","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:52 PM	{"bt_cur":"-3888.54","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:53 PM	{"bt_cur":"-3803.66","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:54 PM	{"bt_cur":"-3622.68","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:55 PM	{"bt_cur":"-4538.54","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:39:56 PM	{"bt_cur":"-3480.73","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:39:57 PM	{"bt_cur":"-3692.68","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:58 PM	{"bt_cur":"-4495.61","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:39:59 PM	{"bt_cur":"-3683.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:00 PM	{"bt_cur":"-3666.59","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:01 PM	{"bt_cur":"-3694.63","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:40:02 PM	{"bt_cur":"-3506.59","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:03 PM	{"bt_cur":"-3638.54","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:04 PM	{"bt_cur":"-3689.76","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:40:05 PM	{"bt_cur":"-3470.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:06 PM	{"bt_cur":"-3579.76","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:07 PM	{"bt_cur":"-3667.56","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:08 PM	{"bt_cur":"-4759.51","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:40:09 PM	{"bt_cur":"-3597.56","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:10 PM	{"bt_cur":"-3615.61","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:11 PM	{"bt_cur":"-3551.71","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:12 PM	{"bt_cur":"-3657.56","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:13 PM	{"bt_cur":"-3712.68","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:40:14 PM	{"bt_cur":"-3915.61","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:15 PM	{"bt_cur":"-3459.76","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:16 PM	{"bt_cur":"-3502.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:17 PM	{"bt_cur":"-3466.59","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:18 PM	{"bt_cur":"-3593.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:19 PM	{"bt_cur":"-3619.76","bt_lvl":"3.71","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:20 PM	{"bt_cur":"-3641.71","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:21 PM	{"bt_cur":"-3549.76","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:22 PM	{"bt_cur":"-3726.59","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:23 PM	{"bt_cur":"-3895.61","bt_lvl":"3.71","temperature":35.5,"tilt":1}
+
+08-28-2021 02:40:24 PM	{"bt_cur":"-4570.49","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:25 PM	{"bt_cur":"-3506.59","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:26 PM	{"bt_cur":"-3724.63","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:27 PM	{"bt_cur":"-3703.66","bt_lvl":"3.71","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:28 PM	{"bt_cur":"-3664.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:29 PM	{"bt_cur":"-4085.61","bt_lvl":"3.71","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:30 PM	{"bt_cur":"-4340.49","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:31 PM	{"bt_cur":"-4558.54","bt_lvl":"3.71","temperature":35.5,"tilt":1}
+
+08-28-2021 02:40:32 PM	{"bt_cur":"-3578.78","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:33 PM	{"bt_cur":"-3517.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:34 PM	{"bt_cur":"-3479.76","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:35 PM	{"bt_cur":"-3554.63","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:36 PM	{"bt_cur":"-3608.54","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:37 PM	{"bt_cur":"-3740.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:38 PM	{"bt_cur":"-3716.59","bt_lvl":"3.70","temperature":37.4,"tilt":1}
+
+08-28-2021 02:40:39 PM	{"bt_cur":"-3535.61","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:40 PM	{"bt_cur":"-3606.59","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:41 PM	{"bt_cur":"-3609.76","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:42 PM	{"bt_cur":"-3688.54","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:43 PM	{"bt_cur":"-3604.63","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:44 PM	{"bt_cur":"-3564.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:45 PM	{"bt_cur":"-3627.56","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:46 PM	{"bt_cur":"-3665.61","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:47 PM	{"bt_cur":"-3627.56","bt_lvl":"3.71","temperature":37.4,"tilt":1}
+
+08-28-2021 02:40:48 PM	{"bt_cur":"-3499.76","bt_lvl":"3.70","temperature":37.4,"tilt":1}
+
+08-28-2021 02:40:49 PM	{"bt_cur":"-3549.76","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:50 PM	{"bt_cur":"-3899.51","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:51 PM	{"bt_cur":"-4224.63","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:40:52 PM	{"bt_cur":"-3702.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:53 PM	{"bt_cur":"-3825.61","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:40:54 PM	{"bt_cur":"-3630.73","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:40:55 PM	{"bt_cur":"-3607.56","bt_lvl":"3.70","temperature":37.4,"tilt":1}
+
+08-28-2021 02:40:56 PM	{"bt_cur":"-3643.66","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:57 PM	{"bt_cur":"-3386.59","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:40:58 PM	{"bt_cur":"-3613.66","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:40:59 PM	{"bt_cur":"-3637.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:00 PM	{"bt_cur":"-3478.78","bt_lvl":"3.70","temperature":37.4,"tilt":1}
+
+08-28-2021 02:41:01 PM	{"bt_cur":"-4101.71","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:02 PM	{"bt_cur":"-3604.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:03 PM	{"bt_cur":"-3623.66","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:04 PM	{"bt_cur":"-3735.61","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:05 PM	{"bt_cur":"-3587.56","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:06 PM	{"bt_cur":"-3650.73","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:07 PM	{"bt_cur":"-3660.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:08 PM	{"bt_cur":"-3492.68","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:09 PM	{"bt_cur":"-3579.76","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:10 PM	{"bt_cur":"-3636.59","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:11 PM	{"bt_cur":"-3709.76","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:12 PM	{"bt_cur":"-3564.63","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:13 PM	{"bt_cur":"-3523.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:14 PM	{"bt_cur":"-3739.76","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:15 PM	{"bt_cur":"-3993.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:16 PM	{"bt_cur":"-3642.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:17 PM	{"bt_cur":"-3579.76","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:18 PM	{"bt_cur":"-4365.61","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:19 PM	{"bt_cur":"-3575.61","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:20 PM	{"bt_cur":"-3497.56","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:21 PM	{"bt_cur":"-3752.68","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:22 PM	{"bt_cur":"-3744.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:23 PM	{"bt_cur":"-3607.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:24 PM	{"bt_cur":"-3643.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:25 PM	{"bt_cur":"-3578.78","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:26 PM	{"bt_cur":"-3718.54","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:27 PM	{"bt_cur":"-3595.61","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:28 PM	{"bt_cur":"-3633.66","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:29 PM	{"bt_cur":"-3654.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:30 PM	{"bt_cur":"-4372.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:31 PM	{"bt_cur":"-3623.66","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:32 PM	{"bt_cur":"-3627.56","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:33 PM	{"bt_cur":"-3603.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:34 PM	{"bt_cur":"-3615.61","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:35 PM	{"bt_cur":"-3560.73","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:36 PM	{"bt_cur":"-3678.54","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:37 PM	{"bt_cur":"-3592.68","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:38 PM	{"bt_cur":"-3664.63","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:39 PM	{"bt_cur":"-3520.73","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:40 PM	{"bt_cur":"-3826.59","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:41 PM	{"bt_cur":"-3546.59","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:42 PM	{"bt_cur":"-3676.59","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:43 PM	{"bt_cur":"-3595.61","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:44 PM	{"bt_cur":"-3663.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:45 PM	{"bt_cur":"-3691.71","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:46 PM	{"bt_cur":"-3477.56","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:47 PM	{"bt_cur":"-3669.76","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:48 PM	{"bt_cur":"-3712.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:49 PM	{"bt_cur":"-3595.61","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:50 PM	{"bt_cur":"-4425.61","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:51 PM	{"bt_cur":"-3518.78","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:52 PM	{"bt_cur":"-3652.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:53 PM	{"bt_cur":"-3675.61","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:41:54 PM	{"bt_cur":"-3567.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:55 PM	{"bt_cur":"-3495.61","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:56 PM	{"bt_cur":"-3517.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:41:57 PM	{"bt_cur":"-3733.66","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:41:58 PM	{"bt_cur":"-3592.68","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:41:59 PM	{"bt_cur":"-3594.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:00 PM	{"bt_cur":"-3571.71","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:01 PM	{"bt_cur":"-3610.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:02 PM	{"bt_cur":"-3771.71","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:03 PM	{"bt_cur":"-3641.71","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:04 PM	{"bt_cur":"-3498.78","bt_lvl":"3.70","temperature":37.9,"tilt":1}
+
+08-28-2021 02:42:05 PM	{"bt_cur":"-3546.59","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:06 PM	{"bt_cur":"-3544.63","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:07 PM	{"bt_cur":"-3514.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:08 PM	{"bt_cur":"-3523.66","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:09 PM	{"bt_cur":"-3747.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:10 PM	{"bt_cur":"-3494.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:11 PM	{"bt_cur":"-3644.63","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:12 PM	{"bt_cur":"-3527.56","bt_lvl":"3.70","temperature":37.9,"tilt":1}
+
+08-28-2021 02:42:13 PM	{"bt_cur":"-3663.66","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:14 PM	{"bt_cur":"-4464.63","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:15 PM	{"bt_cur":"-3549.76","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:16 PM	{"bt_cur":"-3985.61","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:17 PM	{"bt_cur":"-3869.51","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:18 PM	{"bt_cur":"-3580.73","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:19 PM	{"bt_cur":"-3539.76","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:20 PM	{"bt_cur":"-3698.54","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:21 PM	{"bt_cur":"-3746.59","bt_lvl":"3.70","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:22 PM	{"bt_cur":"-3561.71","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:23 PM	{"bt_cur":"-3650.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:24 PM	{"bt_cur":"-3597.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:25 PM	{"bt_cur":"-3503.66","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:26 PM	{"bt_cur":"-3677.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:27 PM	{"bt_cur":"-4464.63","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:28 PM	{"bt_cur":"-3579.76","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:29 PM	{"bt_cur":"-3651.71","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:30 PM	{"bt_cur":"-3555.61","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:31 PM	{"bt_cur":"-3601.71","bt_lvl":"3.70","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:32 PM	{"bt_cur":"-3698.54","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:33 PM	{"bt_cur":"-3430.73","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:34 PM	{"bt_cur":"-4257.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:35 PM	{"bt_cur":"-3685.61","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:36 PM	{"bt_cur":"-3586.59","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:37 PM	{"bt_cur":"-3691.71","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:38 PM	{"bt_cur":"-3702.68","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:39 PM	{"bt_cur":"-3670.73","bt_lvl":"3.69","temperature":37.4,"tilt":1}
+
+08-28-2021 02:42:40 PM	{"bt_cur":"-3522.68","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:41 PM	{"bt_cur":"-3642.68","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:42 PM	{"bt_cur":"-4515.61","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:43 PM	{"bt_cur":"-3649.76","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:44 PM	{"bt_cur":"-3805.61","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:45 PM	{"bt_cur":"-3496.59","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:46 PM	{"bt_cur":"-3472.68","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:47 PM	{"bt_cur":"-3654.63","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:48 PM	{"bt_cur":"-3657.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:49 PM	{"bt_cur":"-3517.56","bt_lvl":"3.70","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:50 PM	{"bt_cur":"-4437.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:51 PM	{"bt_cur":"-4023.66","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:52 PM	{"bt_cur":"-3742.68","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:53 PM	{"bt_cur":"-3607.56","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:54 PM	{"bt_cur":"-3558.78","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:55 PM	{"bt_cur":"-3650.73","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:42:56 PM	{"bt_cur":"-3626.59","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:42:57 PM	{"bt_cur":"-3588.54","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:42:58 PM	{"bt_cur":"-3656.59","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:42:59 PM	{"bt_cur":"-3577.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:00 PM	{"bt_cur":"-3597.56","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:01 PM	{"bt_cur":"-3685.61","bt_lvl":"3.69","temperature":35.0,"tilt":1}
+
+08-28-2021 02:43:02 PM	{"bt_cur":"-3762.68","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:03 PM	{"bt_cur":"-3727.56","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:04 PM	{"bt_cur":"-3438.78","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:05 PM	{"bt_cur":"-3547.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:06 PM	{"bt_cur":"-3672.68","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:43:07 PM	{"bt_cur":"-3615.61","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:08 PM	{"bt_cur":"-3637.56","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:09 PM	{"bt_cur":"-3716.59","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:10 PM	{"bt_cur":"-3718.54","bt_lvl":"3.70","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:11 PM	{"bt_cur":"-3678.54","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:12 PM	{"bt_cur":"-3646.59","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:13 PM	{"bt_cur":"-3700.73","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:43:14 PM	{"bt_cur":"-3490.73","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:15 PM	{"bt_cur":"-3588.54","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:16 PM	{"bt_cur":"-3766.59","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:17 PM	{"bt_cur":"-3613.66","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:18 PM	{"bt_cur":"-3574.63","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:19 PM	{"bt_cur":"-3650.73","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:20 PM	{"bt_cur":"-4298.54","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:21 PM	{"bt_cur":"-4000.73","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:22 PM	{"bt_cur":"-3915.61","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:23 PM	{"bt_cur":"-3535.61","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:24 PM	{"bt_cur":"-3734.63","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:25 PM	{"bt_cur":"-4353.66","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:26 PM	{"bt_cur":"-3675.61","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:27 PM	{"bt_cur":"-3714.63","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:28 PM	{"bt_cur":"-4633.66","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:29 PM	{"bt_cur":"-3557.56","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:30 PM	{"bt_cur":"-3612.68","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:31 PM	{"bt_cur":"-3604.63","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:43:32 PM	{"bt_cur":"-3471.71","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:33 PM	{"bt_cur":"-4639.51","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:34 PM	{"bt_cur":"-3555.61","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:35 PM	{"bt_cur":"-3548.78","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:36 PM	{"bt_cur":"-4485.61","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:37 PM	{"bt_cur":"-3589.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:38 PM	{"bt_cur":"-3702.68","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:39 PM	{"bt_cur":"-3816.59","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:43:40 PM	{"bt_cur":"-3804.63","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:41 PM	{"bt_cur":"-4373.66","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:43:42 PM	{"bt_cur":"-3537.56","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:43 PM	{"bt_cur":"-3803.66","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:44 PM	{"bt_cur":"-3705.61","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:45 PM	{"bt_cur":"-3538.78","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:46 PM	{"bt_cur":"-3557.56","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:47 PM	{"bt_cur":"-3629.76","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:48 PM	{"bt_cur":"-3582.68","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:49 PM	{"bt_cur":"-3592.68","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:50 PM	{"bt_cur":"-3494.63","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:51 PM	{"bt_cur":"-3509.76","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:52 PM	{"bt_cur":"-3783.66","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:53 PM	{"bt_cur":"-3517.56","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:54 PM	{"bt_cur":"-3636.59","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:43:55 PM	{"bt_cur":"-3819.76","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:56 PM	{"bt_cur":"-3666.59","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:57 PM	{"bt_cur":"-4183.66","bt_lvl":"3.69","temperature":37.0,"tilt":1}
+
+08-28-2021 02:43:58 PM	{"bt_cur":"-3802.68","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:43:59 PM	{"bt_cur":"-3926.59","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:00 PM	{"bt_cur":"-3698.54","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:01 PM	{"bt_cur":"-3760.73","bt_lvl":"3.68","temperature":35.0,"tilt":1}
+
+08-28-2021 02:44:02 PM	{"bt_cur":"-3833.66","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:03 PM	{"bt_cur":"-3486.59","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:04 PM	{"bt_cur":"-3709.76","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:05 PM	{"bt_cur":"-3570.73","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:06 PM	{"bt_cur":"-4081.71","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:07 PM	{"bt_cur":"-3506.59","bt_lvl":"3.69","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:08 PM	{"bt_cur":"-3688.54","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:09 PM	{"bt_cur":"-3502.68","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:10 PM	{"bt_cur":"-4311.71","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:11 PM	{"bt_cur":"-3562.68","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:12 PM	{"bt_cur":"-4426.59","bt_lvl":"3.69","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:13 PM	{"bt_cur":"-3683.66","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:14 PM	{"bt_cur":"-3694.63","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:15 PM	{"bt_cur":"-4232.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:16 PM	{"bt_cur":"-3508.78","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:17 PM	{"bt_cur":"-3494.63","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:18 PM	{"bt_cur":"-3737.56","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:19 PM	{"bt_cur":"-3719.76","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:20 PM	{"bt_cur":"-3637.56","bt_lvl":"3.69","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:21 PM	{"bt_cur":"-3632.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:22 PM	{"bt_cur":"-3799.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:23 PM	{"bt_cur":"-3753.66","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:24 PM	{"bt_cur":"-3504.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:25 PM	{"bt_cur":"-3562.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:26 PM	{"bt_cur":"-3758.54","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:27 PM	{"bt_cur":"-3610.73","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:28 PM	{"bt_cur":"-3770.73","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:29 PM	{"bt_cur":"-3635.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:30 PM	{"bt_cur":"-3572.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:31 PM	{"bt_cur":"-3527.56","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:32 PM	{"bt_cur":"-3572.68","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:33 PM	{"bt_cur":"-3709.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:34 PM	{"bt_cur":"-4256.59","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:35 PM	{"bt_cur":"-3645.61","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:36 PM	{"bt_cur":"-3579.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:37 PM	{"bt_cur":"-3792.68","bt_lvl":"3.68","temperature":37.4,"tilt":1}
+
+08-28-2021 02:44:38 PM	{"bt_cur":"-3723.66","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:39 PM	{"bt_cur":"-3415.61","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:40 PM	{"bt_cur":"-3878.54","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:41 PM	{"bt_cur":"-3781.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:42 PM	{"bt_cur":"-3728.54","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:43 PM	{"bt_cur":"-3575.61","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:44 PM	{"bt_cur":"-3989.51","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:45 PM	{"bt_cur":"-3647.56","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:46 PM	{"bt_cur":"-3540.73","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:47 PM	{"bt_cur":"-3667.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:44:48 PM	{"bt_cur":"-3757.56","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:49 PM	{"bt_cur":"-3693.66","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:50 PM	{"bt_cur":"-3701.71","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:51 PM	{"bt_cur":"-3867.56","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:52 PM	{"bt_cur":"-4799.51","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:53 PM	{"bt_cur":"-4473.66","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:54 PM	{"bt_cur":"-4286.59","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:55 PM	{"bt_cur":"-4475.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:56 PM	{"bt_cur":"-3711.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:44:57 PM	{"bt_cur":"-4669.51","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:44:58 PM	{"bt_cur":"-3777.56","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:44:59 PM	{"bt_cur":"-4770.49","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:00 PM	{"bt_cur":"-3669.76","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:01 PM	{"bt_cur":"-3742.68","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:45:02 PM	{"bt_cur":"-3875.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:03 PM	{"bt_cur":"-4505.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:04 PM	{"bt_cur":"-4437.56","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:05 PM	{"bt_cur":"-3755.61","bt_lvl":"3.68","temperature":35.0,"tilt":1}
+
+08-28-2021 02:45:06 PM	{"bt_cur":"-3676.59","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:07 PM	{"bt_cur":"-3697.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:08 PM	{"bt_cur":"-4424.63","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:09 PM	{"bt_cur":"-4119.51","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:10 PM	{"bt_cur":"-3888.54","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:45:11 PM	{"bt_cur":"-3519.76","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:12 PM	{"bt_cur":"-3534.63","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:13 PM	{"bt_cur":"-3720.73","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:45:14 PM	{"bt_cur":"-4489.51","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:15 PM	{"bt_cur":"-3803.66","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:16 PM	{"bt_cur":"-3653.66","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:17 PM	{"bt_cur":"-4657.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:18 PM	{"bt_cur":"-3499.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:19 PM	{"bt_cur":"-3594.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:20 PM	{"bt_cur":"-3720.73","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:21 PM	{"bt_cur":"-3959.51","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:22 PM	{"bt_cur":"-4336.59","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:23 PM	{"bt_cur":"-3701.71","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:24 PM	{"bt_cur":"-4504.63","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:25 PM	{"bt_cur":"-4456.59","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:26 PM	{"bt_cur":"-3576.59","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:45:27 PM	{"bt_cur":"-4028.54","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:28 PM	{"bt_cur":"-4253.66","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:29 PM	{"bt_cur":"-4612.44","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:30 PM	{"bt_cur":"-3593.66","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:31 PM	{"bt_cur":"-3973.66","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:32 PM	{"bt_cur":"-3920.73","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:33 PM	{"bt_cur":"-3815.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:34 PM	{"bt_cur":"-4476.59","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:35 PM	{"bt_cur":"-3633.66","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:36 PM	{"bt_cur":"-3884.63","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:37 PM	{"bt_cur":"-3745.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:38 PM	{"bt_cur":"-3818.54","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:39 PM	{"bt_cur":"-4712.44","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:40 PM	{"bt_cur":"-3531.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:41 PM	{"bt_cur":"-3574.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:42 PM	{"bt_cur":"-3763.66","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:43 PM	{"bt_cur":"-3594.63","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:44 PM	{"bt_cur":"-3771.71","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:45 PM	{"bt_cur":"-3624.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:46 PM	{"bt_cur":"-3645.61","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:47 PM	{"bt_cur":"-3497.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:48 PM	{"bt_cur":"-3852.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:49 PM	{"bt_cur":"-3962.68","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:50 PM	{"bt_cur":"-3649.76","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:45:52 PM	{"bt_cur":"-3709.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:45:52 PM	{"bt_cur":"-3691.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:53 PM	{"bt_cur":"-3604.63","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:45:54 PM	{"bt_cur":"-3515.61","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:55 PM	{"bt_cur":"-3576.59","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:56 PM	{"bt_cur":"-3527.56","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:45:57 PM	{"bt_cur":"-3643.66","bt_lvl":"3.68","temperature":37.4,"tilt":1}
+
+08-28-2021 02:45:58 PM	{"bt_cur":"-3779.76","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:45:59 PM	{"bt_cur":"-3766.59","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:00 PM	{"bt_cur":"-3543.66","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:01 PM	{"bt_cur":"-3701.71","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:02 PM	{"bt_cur":"-3701.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:03 PM	{"bt_cur":"-3494.63","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:04 PM	{"bt_cur":"-3647.56","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:05 PM	{"bt_cur":"-3555.61","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:06 PM	{"bt_cur":"-3759.76","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:07 PM	{"bt_cur":"-3600.73","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:08 PM	{"bt_cur":"-3627.56","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:09 PM	{"bt_cur":"-3899.51","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:10 PM	{"bt_cur":"-3672.68","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:11 PM	{"bt_cur":"-3699.76","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:12 PM	{"bt_cur":"-4654.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:13 PM	{"bt_cur":"-3692.68","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:14 PM	{"bt_cur":"-3605.61","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:15 PM	{"bt_cur":"-3604.63","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:16 PM	{"bt_cur":"-3629.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:17 PM	{"bt_cur":"-3692.68","bt_lvl":"3.68","temperature":35.0,"tilt":1}
+
+08-28-2021 02:46:18 PM	{"bt_cur":"-3739.76","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:19 PM	{"bt_cur":"-3552.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:20 PM	{"bt_cur":"-3567.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:21 PM	{"bt_cur":"-3598.54","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:22 PM	{"bt_cur":"-4074.63","bt_lvl":"3.67","temperature":35.0,"tilt":1}
+
+08-28-2021 02:46:23 PM	{"bt_cur":"-3764.63","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:24 PM	{"bt_cur":"-3493.66","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:25 PM	{"bt_cur":"-3479.76","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:26 PM	{"bt_cur":"-3564.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:27 PM	{"bt_cur":"-3636.59","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:28 PM	{"bt_cur":"-3707.56","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:29 PM	{"bt_cur":"-3564.63","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:30 PM	{"bt_cur":"-3662.68","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:31 PM	{"bt_cur":"-4140.49","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:32 PM	{"bt_cur":"-3654.63","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:33 PM	{"bt_cur":"-3821.71","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:34 PM	{"bt_cur":"-3498.78","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:35 PM	{"bt_cur":"-3531.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:36 PM	{"bt_cur":"-3674.63","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:37 PM	{"bt_cur":"-3761.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:38 PM	{"bt_cur":"-3732.68","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:39 PM	{"bt_cur":"-4010.73","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:40 PM	{"bt_cur":"-3750.73","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:41 PM	{"bt_cur":"-3517.56","bt_lvl":"3.67","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:42 PM	{"bt_cur":"-3661.71","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:43 PM	{"bt_cur":"-3652.68","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:44 PM	{"bt_cur":"-3772.68","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:45 PM	{"bt_cur":"-3703.66","bt_lvl":"3.67","temperature":37.4,"tilt":1}
+
+08-28-2021 02:46:46 PM	{"bt_cur":"-3644.63","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:47 PM	{"bt_cur":"-3698.54","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:48 PM	{"bt_cur":"-3777.56","bt_lvl":"3.67","temperature":35.5,"tilt":1}
+
+08-28-2021 02:46:50 PM	{"bt_cur":"-4648.54","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:50 PM	{"bt_cur":"-3709.76","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:51 PM	{"bt_cur":"-3567.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:52 PM	{"bt_cur":"-3678.54","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:53 PM	{"bt_cur":"-3612.68","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:54 PM	{"bt_cur":"-3515.61","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:46:55 PM	{"bt_cur":"-3575.61","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:56 PM	{"bt_cur":"-4526.59","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:57 PM	{"bt_cur":"-3487.56","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:46:58 PM	{"bt_cur":"-5011.46","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:46:59 PM	{"bt_cur":"-3609.76","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:47:00 PM	{"bt_cur":"-4846.59","bt_lvl":"3.68","temperature":35.5,"tilt":1}
+
+08-28-2021 02:47:01 PM	{"bt_cur":"-3679.76","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:47:02 PM	{"bt_cur":"-3757.56","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:47:03 PM	{"bt_cur":"-3938.54","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:47:04 PM	{"bt_cur":"-3723.66","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:47:05 PM	{"bt_cur":"-3677.56","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:47:06 PM	{"bt_cur":"-3666.59","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:47:07 PM	{"bt_cur":"-3649.76","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:47:08 PM	{"bt_cur":"-3598.54","bt_lvl":"3.66","temperature":37.0,"tilt":1}
+
+08-28-2021 02:47:09 PM	{"bt_cur":"-4961.46","bt_lvl":"3.66","temperature":37.9,"tilt":1}
+
+08-28-2021 02:47:50 PM	{"bt_cur":"-3443.66","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:47:51 PM	{"bt_cur":"-3459.76","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:47:51 PM	{"bt_cur":"-3265.61","bt_lvl":"3.67","temperature":37.4,"tilt":1}
+
+08-28-2021 02:47:52 PM	{"bt_cur":"-3728.54","bt_lvl":"3.66","temperature":37.9,"tilt":1}
+
+08-28-2021 02:47:53 PM	{"bt_cur":"-3337.56","bt_lvl":"3.67","temperature":37.9,"tilt":1}
+
+08-28-2021 02:47:54 PM	{"bt_cur":"-3465.61","bt_lvl":"3.68","temperature":37.4,"tilt":1}
+
+08-28-2021 02:47:55 PM	{"bt_cur":"-3305.61","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:47:56 PM	{"bt_cur":"-3349.76","bt_lvl":"3.68","temperature":36.0,"tilt":1}
+
+08-28-2021 02:47:57 PM	{"bt_cur":"-3328.78","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:47:58 PM	{"bt_cur":"-3324.63","bt_lvl":"3.67","temperature":37.4,"tilt":1}
+
+08-28-2021 02:47:59 PM	{"bt_cur":"-3461.71","bt_lvl":"3.68","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:00 PM	{"bt_cur":"-3364.63","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:01 PM	{"bt_cur":"-3334.63","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:02 PM	{"bt_cur":"-3352.68","bt_lvl":"3.68","temperature":37.4,"tilt":1}
+
+08-28-2021 02:48:03 PM	{"bt_cur":"-3456.59","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:04 PM	{"bt_cur":"-3306.59","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:05 PM	{"bt_cur":"-3417.56","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:06 PM	{"bt_cur":"-3451.71","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:07 PM	{"bt_cur":"-3303.66","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:08 PM	{"bt_cur":"-3320.73","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:09 PM	{"bt_cur":"-3370.73","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:10 PM	{"bt_cur":"-3345.61","bt_lvl":"3.68","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:11 PM	{"bt_cur":"-3456.59","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:12 PM	{"bt_cur":"-3315.61","bt_lvl":"3.67","temperature":37.4,"tilt":1}
+
+08-28-2021 02:48:13 PM	{"bt_cur":"-3475.61","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:14 PM	{"bt_cur":"-3469.76","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:15 PM	{"bt_cur":"-3421.71","bt_lvl":"3.67","temperature":36.0,"tilt":1}
+
+08-28-2021 02:48:16 PM	{"bt_cur":"-3326.59","bt_lvl":"3.67","temperature":37.4,"tilt":1}
+
+08-28-2021 02:48:17 PM	{"bt_cur":"-3460.73","bt_lvl":"3.67","temperature":36.5,"tilt":1}
+
+08-28-2021 02:48:18 PM	{"bt_cur":"-3345.61","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:19 PM	{"bt_cur":"-3460.73","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:48:20 PM	{"bt_cur":"-3417.56","bt_lvl":"3.67","temperature":37.0,"tilt":1}
+
+08-28-2021 02:57:54 PM	{"bt_cur":"-722.01","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:57:55 PM	{"bt_cur":"-595.98","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:57:56 PM	{"bt_cur":"-590.95","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:57:57 PM	{"bt_cur":"-593.96","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:57:58 PM	{"bt_cur":"-592.96","bt_lvl":"4.17","temperature":34.5,"tilt":1}
+
+08-28-2021 02:57:59 PM	{"bt_cur":"-594.97","bt_lvl":"4.17","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:00 PM	{"bt_cur":"-631.01","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:01 PM	{"bt_cur":"-571.01","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:02 PM	{"bt_cur":"-585.00","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:03 PM	{"bt_cur":"-575.95","bt_lvl":"4.16","temperature":33.6,"tilt":1}
+
+08-28-2021 02:58:04 PM	{"bt_cur":"-574.02","bt_lvl":"4.16","temperature":33.6,"tilt":1}
+
+08-28-2021 02:58:05 PM	{"bt_cur":"-620.95","bt_lvl":"4.16","temperature":33.6,"tilt":1}
+
+08-28-2021 02:58:06 PM	{"bt_cur":"-577.96","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:07 PM	{"bt_cur":"-574.02","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:08 PM	{"bt_cur":"-575.03","bt_lvl":"4.16","temperature":33.6,"tilt":1}
+
+08-28-2021 02:58:09 PM	{"bt_cur":"-580.98","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:10 PM	{"bt_cur":"-686.98","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:11 PM	{"bt_cur":"-716.98","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:12 PM	{"bt_cur":"-590.95","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:13 PM	{"bt_cur":"-587.01","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:14 PM	{"bt_cur":"-570.00","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:15 PM	{"bt_cur":"-623.96","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:16 PM	{"bt_cur":"-583.99","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:17 PM	{"bt_cur":"-593.96","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:18 PM	{"bt_cur":"-570.00","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:19 PM	{"bt_cur":"-580.98","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:20 PM	{"bt_cur":"-604.02","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:21 PM	{"bt_cur":"-571.01","bt_lvl":"4.16","temperature":36.0,"tilt":1}
+
+08-28-2021 02:58:22 PM	{"bt_cur":"-592.96","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:23 PM	{"bt_cur":"-573.02","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:24 PM	{"bt_cur":"-593.96","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:25 PM	{"bt_cur":"-612.99","bt_lvl":"4.16","temperature":36.0,"tilt":1}
+
+08-28-2021 02:58:26 PM	{"bt_cur":"-589.02","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:27 PM	{"bt_cur":"-573.02","bt_lvl":"4.16","temperature":36.0,"tilt":1}
+
+08-28-2021 02:58:28 PM	{"bt_cur":"-591.95","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:29 PM	{"bt_cur":"-707.01","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:30 PM	{"bt_cur":"-618.02","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:31 PM	{"bt_cur":"-586.01","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:32 PM	{"bt_cur":"-581.98","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:33 PM	{"bt_cur":"-598.99","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:34 PM	{"bt_cur":"-574.02","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:35 PM	{"bt_cur":"-631.01","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:36 PM	{"bt_cur":"-590.03","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:37 PM	{"bt_cur":"-595.98","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:38 PM	{"bt_cur":"-581.98","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:39 PM	{"bt_cur":"-602.01","bt_lvl":"4.15","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:40 PM	{"bt_cur":"-606.95","bt_lvl":"4.16","temperature":35.0,"tilt":1}
+
+08-28-2021 02:58:41 PM	{"bt_cur":"-600.00","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:42 PM	{"bt_cur":"-573.02","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:43 PM	{"bt_cur":"-601.01","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:44 PM	{"bt_cur":"-593.96","bt_lvl":"4.16","temperature":36.0,"tilt":1}
+
+08-28-2021 02:58:45 PM	{"bt_cur":"-631.01","bt_lvl":"4.16","temperature":36.5,"tilt":1}
+
+08-28-2021 02:58:46 PM	{"bt_cur":"-657.99","bt_lvl":"4.15","temperature":36.0,"tilt":1}
+
+08-28-2021 02:58:47 PM	{"bt_cur":"-575.03","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:48 PM	{"bt_cur":"-590.03","bt_lvl":"4.15","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:49 PM	{"bt_cur":"-589.02","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:50 PM	{"bt_cur":"-579.97","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:51 PM	{"bt_cur":"-596.98","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:52 PM	{"bt_cur":"-590.95","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:53 PM	{"bt_cur":"-601.01","bt_lvl":"4.16","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:54 PM	{"bt_cur":"-610.98","bt_lvl":"4.16","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:55 PM	{"bt_cur":"-586.01","bt_lvl":"4.16","temperature":34.0,"tilt":1}
+
+08-28-2021 02:58:56 PM	{"bt_cur":"-626.98","bt_lvl":"4.15","temperature":34.5,"tilt":1}
+
+08-28-2021 02:58:57 PM	{"bt_cur":"-819.97","bt_lvl":"4.15","temperature":36.0,"tilt":1}
+
+08-28-2021 02:58:58 PM	{"bt_cur":"-814.94","bt_lvl":"4.14","temperature":35.5,"tilt":1}
+
+08-28-2021 02:58:59 PM	{"bt_cur":"-852.99","bt_lvl":"4.15","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:00 PM	{"bt_cur":"-849.97","bt_lvl":"4.14","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:01 PM	{"bt_cur":"-882.99","bt_lvl":"4.14","temperature":34.5,"tilt":1}
+
+08-28-2021 02:59:02 PM	{"bt_cur":"-1068.93","bt_lvl":"4.14","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:03 PM	{"bt_cur":"-1069.94","bt_lvl":"4.13","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:04 PM	{"bt_cur":"-1112.01","bt_lvl":"4.13","temperature":35.0,"tilt":1}
+
+08-28-2021 02:59:05 PM	{"bt_cur":"-1111.01","bt_lvl":"4.13","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:06 PM	{"bt_cur":"-1136.98","bt_lvl":"4.13","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:07 PM	{"bt_cur":"-1103.96","bt_lvl":"4.13","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:08 PM	{"bt_cur":"-1122.99","bt_lvl":"4.13","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:09 PM	{"bt_cur":"-1113.02","bt_lvl":"4.13","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:10 PM	{"bt_cur":"-1101.95","bt_lvl":"4.13","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:11 PM	{"bt_cur":"-1136.98","bt_lvl":"4.13","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:12 PM	{"bt_cur":"-1114.94","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:13 PM	{"bt_cur":"-1095.00","bt_lvl":"4.13","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:14 PM	{"bt_cur":"-1097.01","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:15 PM	{"bt_cur":"-1116.95","bt_lvl":"4.12","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:16 PM	{"bt_cur":"-1115.95","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:17 PM	{"bt_cur":"-1096.01","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:18 PM	{"bt_cur":"-1097.01","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:19 PM	{"bt_cur":"-1121.98","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:20 PM	{"bt_cur":"-1123.99","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:21 PM	{"bt_cur":"-1155.00","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:22 PM	{"bt_cur":"-1194.97","bt_lvl":"4.12","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:23 PM	{"bt_cur":"-1107.99","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:24 PM	{"bt_cur":"-1107.99","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:25 PM	{"bt_cur":"-1118.96","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:26 PM	{"bt_cur":"-1135.98","bt_lvl":"4.12","temperature":35.0,"tilt":1}
+
+08-28-2021 02:59:27 PM	{"bt_cur":"-1123.99","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:40 PM	{"bt_cur":"-1106.98","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:41 PM	{"bt_cur":"-1129.94","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:42 PM	{"bt_cur":"-1126.01","bt_lvl":"4.12","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:43 PM	{"bt_cur":"-1106.98","bt_lvl":"4.12","temperature":35.5,"tilt":1}
+
+08-28-2021 02:59:44 PM	{"bt_cur":"-1099.94","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:45 PM	{"bt_cur":"-1136.98","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:46 PM	{"bt_cur":"-1120.98","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:47 PM	{"bt_cur":"-1202.01","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:48 PM	{"bt_cur":"-1123.99","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:49 PM	{"bt_cur":"-1128.02","bt_lvl":"4.12","temperature":37.4,"tilt":1}
+
+08-28-2021 02:59:50 PM	{"bt_cur":"-1133.96","bt_lvl":"4.12","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:51 PM	{"bt_cur":"-1164.97","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:52 PM	{"bt_cur":"-1116.95","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:53 PM	{"bt_cur":"-1120.98","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:54 PM	{"bt_cur":"-1107.99","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:55 PM	{"bt_cur":"-1131.95","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:56 PM	{"bt_cur":"-1155.00","bt_lvl":"4.12","temperature":37.0,"tilt":1}
+
+08-28-2021 02:59:57 PM	{"bt_cur":"-1123.99","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 02:59:58 PM	{"bt_cur":"-1133.96","bt_lvl":"4.12","temperature":36.0,"tilt":1}
+
+08-28-2021 02:59:59 PM	{"bt_cur":"-1131.95","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:00 PM	{"bt_cur":"-1126.01","bt_lvl":"4.12","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:01 PM	{"bt_cur":"-1170.00","bt_lvl":"4.11","temperature":35.5,"tilt":1}
+
+08-28-2021 03:00:02 PM	{"bt_cur":"-1128.93","bt_lvl":"4.12","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:03 PM	{"bt_cur":"-1141.01","bt_lvl":"4.12","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:04 PM	{"bt_cur":"-1131.95","bt_lvl":"4.12","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:05 PM	{"bt_cur":"-1125.00","bt_lvl":"4.12","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:06 PM	{"bt_cur":"-1146.95","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:07 PM	{"bt_cur":"-1111.01","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:08 PM	{"bt_cur":"-1110.00","bt_lvl":"4.11","temperature":36.0,"tilt":1}
+
+08-28-2021 03:00:09 PM	{"bt_cur":"-1123.99","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:10 PM	{"bt_cur":"-1121.98","bt_lvl":"4.12","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:11 PM	{"bt_cur":"-1170.00","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:12 PM	{"bt_cur":"-1132.96","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:13 PM	{"bt_cur":"-1118.96","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:14 PM	{"bt_cur":"-1130.95","bt_lvl":"4.11","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:15 PM	{"bt_cur":"-1132.96","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:16 PM	{"bt_cur":"-1146.95","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:17 PM	{"bt_cur":"-1111.01","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:18 PM	{"bt_cur":"-1110.00","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:19 PM	{"bt_cur":"-1129.94","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:20 PM	{"bt_cur":"-1120.98","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:21 PM	{"bt_cur":"-1158.02","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:22 PM	{"bt_cur":"-1110.00","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:23 PM	{"bt_cur":"-1215.00","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:24 PM	{"bt_cur":"-1126.01","bt_lvl":"4.11","temperature":38.4,"tilt":1}
+
+08-28-2021 03:00:25 PM	{"bt_cur":"-1118.96","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:26 PM	{"bt_cur":"-1147.96","bt_lvl":"4.11","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:27 PM	{"bt_cur":"-1132.96","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:28 PM	{"bt_cur":"-1127.01","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:29 PM	{"bt_cur":"-1128.02","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:30 PM	{"bt_cur":"-1123.99","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:31 PM	{"bt_cur":"-1173.93","bt_lvl":"4.11","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:32 PM	{"bt_cur":"-1121.98","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:33 PM	{"bt_cur":"-1113.02","bt_lvl":"4.11","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:34 PM	{"bt_cur":"-1130.95","bt_lvl":"4.11","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:35 PM	{"bt_cur":"-1136.98","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:36 PM	{"bt_cur":"-1177.96","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:37 PM	{"bt_cur":"-1141.01","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:38 PM	{"bt_cur":"-1140.00","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:39 PM	{"bt_cur":"-1132.96","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:40 PM	{"bt_cur":"-1143.02","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:41 PM	{"bt_cur":"-1150.98","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:42 PM	{"bt_cur":"-1113.93","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:43 PM	{"bt_cur":"-1125.00","bt_lvl":"4.11","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:44 PM	{"bt_cur":"-1129.94","bt_lvl":"4.11","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:45 PM	{"bt_cur":"-1140.00","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:46 PM	{"bt_cur":"-1172.01","bt_lvl":"4.10","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:47 PM	{"bt_cur":"-1132.96","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:48 PM	{"bt_cur":"-1114.94","bt_lvl":"4.10","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:49 PM	{"bt_cur":"-1145.95","bt_lvl":"4.11","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:50 PM	{"bt_cur":"-1126.01","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:51 PM	{"bt_cur":"-1157.01","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:52 PM	{"bt_cur":"-1130.95","bt_lvl":"4.10","temperature":38.4,"tilt":1}
+
+08-28-2021 03:00:53 PM	{"bt_cur":"-1116.95","bt_lvl":"4.11","temperature":38.4,"tilt":1}
+
+08-28-2021 03:00:54 PM	{"bt_cur":"-1117.96","bt_lvl":"4.11","temperature":36.5,"tilt":1}
+
+08-28-2021 03:00:55 PM	{"bt_cur":"-1129.94","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:56 PM	{"bt_cur":"-1159.94","bt_lvl":"4.10","temperature":37.0,"tilt":1}
+
+08-28-2021 03:00:57 PM	{"bt_cur":"-1138.99","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:00:58 PM	{"bt_cur":"-1133.96","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:00:59 PM	{"bt_cur":"-1191.95","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:01:00 PM	{"bt_cur":"-1117.96","bt_lvl":"4.10","temperature":38.4,"tilt":1}
+
+08-28-2021 03:01:01 PM	{"bt_cur":"-1170.00","bt_lvl":"4.10","temperature":37.0,"tilt":1}
+
+08-28-2021 03:01:02 PM	{"bt_cur":"-1121.98","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:01:03 PM	{"bt_cur":"-1143.93","bt_lvl":"4.10","temperature":39.4,"tilt":1}
+
+08-28-2021 03:01:04 PM	{"bt_cur":"-1110.00","bt_lvl":"4.10","temperature":38.4,"tilt":1}
+
+08-28-2021 03:01:05 PM	{"bt_cur":"-1128.02","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:01:06 PM	{"bt_cur":"-1157.01","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:01:07 PM	{"bt_cur":"-1133.96","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:01:08 PM	{"bt_cur":"-1149.97","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:01:09 PM	{"bt_cur":"-1116.95","bt_lvl":"4.10","temperature":37.4,"tilt":1}
+
+08-28-2021 03:01:10 PM	{"bt_cur":"-1438.99","bt_lvl":"4.10","temperature":38.4,"tilt":1}
+
+08-28-2021 03:01:59 PM	{"bt_cur":"-1425.00","bt_lvl":"4.09","temperature":40.4,"tilt":1}
+
+08-28-2021 03:02:00 PM	{"bt_cur":"-1366.01","bt_lvl":"4.10","temperature":39.4,"tilt":1}
+
+08-28-2021 03:02:01 PM	{"bt_cur":"-1215.00","bt_lvl":"4.10","temperature":38.4,"tilt":1}
+
+08-28-2021 03:02:02 PM	{"bt_cur":"-1260.00","bt_lvl":"4.09","temperature":37.4,"tilt":1}
+
+08-28-2021 03:02:03 PM	{"bt_cur":"-1212.99","bt_lvl":"4.10","temperature":38.9,"tilt":1}
+
+08-28-2021 03:02:04 PM	{"bt_cur":"-1223.96","bt_lvl":"4.09","temperature":38.4,"tilt":1}
+
+08-28-2021 03:02:05 PM	{"bt_cur":"-1263.93","bt_lvl":"4.09","temperature":38.9,"tilt":1}
+
+08-28-2021 03:02:06 PM	{"bt_cur":"-1210.98","bt_lvl":"4.09","temperature":37.0,"tilt":1}
+
+08-28-2021 03:02:07 PM	{"bt_cur":"-1250.95","bt_lvl":"4.09","temperature":38.9,"tilt":1}
+
+08-28-2021 03:02:08 PM	{"bt_cur":"-1246.01","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:02:09 PM	{"bt_cur":"-1250.95","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:02:10 PM	{"bt_cur":"-1290.00","bt_lvl":"4.09","temperature":37.9,"tilt":1}
+
+08-28-2021 03:02:11 PM	{"bt_cur":"-1233.93","bt_lvl":"4.10","temperature":37.9,"tilt":1}
+
+08-28-2021 03:02:12 PM	{"bt_cur":"-1607.93","bt_lvl":"4.08","temperature":39.9,"tilt":1}
+
